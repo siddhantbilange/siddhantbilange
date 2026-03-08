@@ -42,9 +42,13 @@ const siddhant = {
 
 ### UX Design
 ```
-🔍 User Research  •  🗺️ User Flows  •  📐 Wireframing
-🎭 Prototyping  •  🧪 Usability Testing  •  ♿ Accessibility
-📚 Design Systems
+•  🔍 User Research  
+•  🗺️ User Flows  
+•  📐 Wireframing
+•  🎭 Prototyping  
+•  🧪 Usability Testing  
+•  ♿ Accessibility
+•  📚 Design Systems
 ```
 
 **Philosophy**: *I figure out what users need by watching how they work, asking the right questions, and testing assumptions early. Then I design solutions that reduce friction and help people get things done faster.*
